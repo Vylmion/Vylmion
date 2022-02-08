@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Thomas
 - 👀 I’m interested in Programming and especially in cybersecurity
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Cybersecurity
 - 💞️ I’m looking to work in programming and in the field of cybersecurity
 
 <!---
